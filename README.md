@@ -1,4 +1,4 @@
-## 👦🏻 About Me:
+## 👦🏻 About Me :
 🔭 Computer science student at IUT Nice Côte d'Azur.
 <br>
 ⚡ Currently learning TypeScript, Angular & C#. 
@@ -7,7 +7,7 @@
 
 
 
-## 💻 Tech Stack:
+## 💻 Tech Stack :
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,18 +19,14 @@
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats :
 <div align="left">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayanOUTILI&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" style="width: 300px; height: auto;" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RayanOUTILI&theme=gotham&hide_border=false" alt="GitHub Streak" style="width: 300px; height: auto;" /><br/>
 </div>
-
-
----
