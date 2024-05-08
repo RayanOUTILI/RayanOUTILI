@@ -27,8 +27,8 @@
 
 ## 📊 GitHub Stats :
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayanOUTILI&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" style="width: auto; height: 200px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RayanOUTILI&theme=gotham&hide_border=false" alt="GitHub Streak" style="width: auto; height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayanOUTILI&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" style="width: auto; height: 150px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RayanOUTILI&theme=gotham&hide_border=false" alt="GitHub Streak" style="width: auto; height: 150px;" />
 </div>
 
 
